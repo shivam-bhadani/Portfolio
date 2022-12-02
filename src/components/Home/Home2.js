@@ -30,6 +30,12 @@ function Home2() {
               </i>
               <br />
               <br />
+              I am a <b className="purple">tech geek</b> and always learn and explore things related to <i><b className="purple">Technology and Softwares</b></i>.
+              <br />
+              <br />
+              Currently I'm learning about <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
+              <br />
+              <br />
               My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/Shivam28nov/animelist" target={"_blank"}>anime and reading manga</a>.
               <br />
             </p>
