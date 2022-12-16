@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               I am a 3rd year undergraduate at IIT Kanpur
               <br />
-              <br />I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/Shivam28nov" target={"_blank"}>problem solving</a> and doing competitive programming.
+              <br />I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -75,7 +75,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/shivam28nov"
+                  href="https://twitter.com/shivambhadani_"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/shivam28nov"
+                  href="https://www.instagram.com/shivambhadani_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
