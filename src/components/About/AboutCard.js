@@ -20,7 +20,7 @@ function AboutCard() {
               <FaStar /> Achieved Highest Rating of 1638 (Expert) on <a className="purple" style={{ "textDecoration": "none" }} href="https://codeforces.com/profile/_shivam_coder_" target={"_blank"}>Codeforces</a>
             </li>
             <li className="about-activity">
-              <FaStar /> Global Rank 567 in Educational Codeforces Round 567
+              <FaStar /> Global Rank 567 in Educational Codeforces Round 112
             </li>
             <li className="about-activity">
               <FaStar /> Achieved Highest Rating of 1967 (4 Star) on <a className="purple" style={{ "textDecoration": "none" }} href="https://www.codechef.com/users/shivambhadani" target={"_blank"}>CodeChef</a>

@@ -36,7 +36,7 @@ function Home2() {
               Currently I'm learning about <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
               <br />
               <br />
-              My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/Shivam28nov/animelist" target={"_blank"}>anime and reading manga</a>.
+              My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/shivambhadani/animelist" target={"_blank"}>anime and reading manga</a>.
               <br />
             </p>
           </Col>
