@@ -23,7 +23,7 @@ function AboutCard() {
               <FaStar /> Global Rank 567 in Educational Codeforces Round 112
             </li>
             <li className="about-activity">
-              <FaStar /> Achieved Highest Rating of 1967 (4 Star) on <a className="purple" style={{ "textDecoration": "none" }} href="https://www.codechef.com/users/shivambhadani" target={"_blank"}>CodeChef</a>
+              <FaStar /> Achieved Highest Rating of 2029 (5 Star) on <a className="purple" style={{ "textDecoration": "none" }} href="https://www.codechef.com/users/shivambhadani" target={"_blank"}>CodeChef</a>
             </li>
             <li className="about-activity">
               <FaStar /> Global Rank 617 (India Rank 411) in Google Kickstart Round G 2022
