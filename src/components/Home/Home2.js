@@ -33,7 +33,9 @@ function Home2() {
               I am a <b className="purple">tech geek</b> and always learn and explore things related to <i><b className="purple">Technology and Softwares</b></i>.
               <br />
               <br />
-              Currently I'm learning about <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
+              I also have knowledge of <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
+              <br />
+              Currently I'm learning different <i><b className="purple">System Design Concepts</b> to make an application fast and scalable</i>.
               <br />
               <br />
               My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/shivambhadani/animelist" target={"_blank"}>anime and reading manga</a>.
