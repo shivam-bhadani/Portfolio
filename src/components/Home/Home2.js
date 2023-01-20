@@ -35,6 +35,7 @@ function Home2() {
               <br />
               I also have knowledge of <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
               <br />
+              <br />
               Currently I'm learning different <i><b className="purple">System Design Concepts</b> to make an application fast and scalable</i>.
               <br />
               <br />
