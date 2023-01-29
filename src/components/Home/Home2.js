@@ -36,7 +36,7 @@ function Home2() {
               I also have knowledge of <i><b className="purple">Web3, Cryptography and Blockchain</b></i>.
               <br />
               <br />
-              Currently I'm learning different <i><b className="purple">System Design Concepts</b> to make an application fast and scalable</i>.
+              Currently I'm learning different <i><b className="purple">System Design Concepts</b></i> to make an application fast and scalable.
               <br />
               <br />
               My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/shivambhadani/animelist" target={"_blank"}>anime and reading manga</a>.
