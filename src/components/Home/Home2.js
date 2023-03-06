@@ -21,7 +21,11 @@ function Home2() {
             <p className="home-about-body">
               I am a 3rd year undergraduate at IIT Kanpur
               <br />
-              <br />I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
+              <br />
+              I will be joining <b className="purple">Codenation (Trilogy Innovations)</b> as a <b className="purple">SDE Intern</b> for the upcoming summer 2023.
+              <br />
+              <br />
+              I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
               <br />
               <br />
               My field of Interest's are building new &nbsp;

@@ -17,7 +17,7 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <FaStar /> Achieved Highest Rating of 1638 (Expert) on <a className="purple" style={{ "textDecoration": "none" }} href="https://codeforces.com/profile/_shivam_coder_" target={"_blank"}>Codeforces</a>
+              <FaStar /> Achieved Highest Rating of 1676 (Expert) on <a className="purple" style={{ "textDecoration": "none" }} href="https://codeforces.com/profile/_shivam_coder_" target={"_blank"}>Codeforces</a>
             </li>
             <li className="about-activity">
               <FaStar /> Global Rank 567 in Educational Codeforces Round 112
