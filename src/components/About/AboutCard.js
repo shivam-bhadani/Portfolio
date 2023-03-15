@@ -32,7 +32,7 @@ function AboutCard() {
               <FaStar /> Global Rank 778 (India Rank 512) in Google Kickstart Round F 2022
             </li>
             <li className="about-activity">
-              <FaStar />  Knight (Top 1.56%) in <a className="purple" style={{ "textDecoration": "none" }} href="https://leetcode.com/shivambhadani/" target={"_blank"}>leetcode</a>
+              <FaStar />  Knight (Max Rating 2165) in <a className="purple" style={{ "textDecoration": "none" }} href="https://leetcode.com/shivambhadani/" target={"_blank"}>leetcode</a>
             </li>
           </ul>
         </blockquote>
