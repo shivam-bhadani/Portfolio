@@ -598,6 +598,22 @@ button:focus {
     padding-top: 0 !important;
   }
 }
+
+/* --------- */
+/* Contact */
+/* --------- */
+
+.contact-section {
+  margin-top: 50px;
+  /* position: relative !important;
+  top: 50px !important; */
+  /* z-index: 100 !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important; */
+  background-image: var(--section-background-color) !important;
+  color: white !important;
+}
+
 /* --------- */
 /* Resume */
 /* --------- */
