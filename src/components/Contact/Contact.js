@@ -4,6 +4,7 @@ import Particle from "../Particle";
 import ContactImg from "../../Assets/contact.svg";
 import { CgMail } from "react-icons/cg";
 import {ImLocation} from "react-icons/im";
+import {AiOutlineVideoCamera} from "react-icons/ai"
 
 function Contact() {
   return (
@@ -18,15 +19,22 @@ function Contact() {
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              <strong className="purple">Get in Touch With Me</strong>
+              Get in Touch With <strong className="purple">Me</strong>
             </h1>
 
             <Card className="quote-card-view">
               <Card.Body>
                 <blockquote className="blockquote mb-0">
                   <ul>
+
                     <li className="about-activity">
-                      <CgMail /> Email: <a href="mailto:shivambhadani19@gmail.com" className="purple" style={{"textDecoration": "none"}}>shivambhadani19@gmail.com</a>
+                      <AiOutlineVideoCamera /> Connect With Me one on one on Topmate : <a className="purple" style={{ "textDecoration": "none" }} href="https://topmate.io/shivambhadani" target={"_blank"}>https://topmate.io/shivambhadani</a>
+                      <br />
+                      <br />
+                    </li>
+
+                    <li className="about-activity">
+                      <CgMail /> Email : <a href="mailto:shivambhadani19@gmail.com" className="purple" style={{"textDecoration": "none"}}>shivambhadani19@gmail.com</a>
                       <br />
                       <br />
                     </li>

@@ -45,6 +45,9 @@ function Home2() {
               <br />
               My hobbies are watching movies, <a className="purple" style={{ "textDecoration": "none" }} href="https://anilist.co/user/shivambhadani/animelist" target={"_blank"}>anime and reading manga</a>.
               <br />
+              <br />
+              You can connect with me one to one on Topmate - <a className="purple" style={{ "textDecoration": "none" }} href="https://topmate.io/shivambhadani" target={"_blank"}>https://topmate.io/shivambhadani</a>
+              <br />
             </p>
           </Col>
           <Col md={4} className="myAvtar">
