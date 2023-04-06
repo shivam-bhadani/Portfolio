@@ -34,12 +34,6 @@ function Contact() {
                     </li>
 
                     <li className="about-activity">
-                      <CgMail /> Email : <a href="mailto:shivambhadani19@gmail.com" className="purple" style={{"textDecoration": "none"}}>shivambhadani19@gmail.com</a>
-                      <br />
-                      <br />
-                    </li>
-
-                    <li className="about-activity">
                       <ImLocation /> Address : D234, Hall 3, IIT Kanpur
                     </li>
 
