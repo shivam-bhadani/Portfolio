@@ -4,7 +4,7 @@ import Particle from "../Particle";
 import ContactImg from "../../Assets/contact.svg";
 import { CgMail } from "react-icons/cg";
 import {ImLocation} from "react-icons/im";
-import {AiOutlineVideoCamera} from "react-icons/ai"
+import {AiOutlineMail} from "react-icons/ai"
 
 function Contact() {
   return (
@@ -28,7 +28,7 @@ function Contact() {
                   <ul>
 
                     <li className="about-activity">
-                      <AiOutlineVideoCamera /> Connect With Me one on one on Topmate : <a className="purple" style={{ "textDecoration": "none" }} href="https://topmate.io/shivambhadani" target={"_blank"}>https://topmate.io/shivambhadani</a>
+                      <AiOutlineMail /> Email : <a className="purple" style={{ "textDecoration": "none" }} href="mailto:shivambhadani19@gmail.com" target={"_blank"}>shivambhadani19@gmail.com</a>
                       <br />
                       <br />
                     </li>
