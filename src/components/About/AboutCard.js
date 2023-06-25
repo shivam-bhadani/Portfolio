@@ -17,10 +17,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <FaStar /> Achieved Highest Rating of 1676 (Expert) on <a className="purple" style={{ "textDecoration": "none" }} href="https://codeforces.com/profile/_shivam_coder_" target={"_blank"}>Codeforces</a>
+              <FaStar /> Achieved Highest Rating of 1766 (Expert) on <a className="purple" style={{ "textDecoration": "none" }} href="https://codeforces.com/profile/_shivam_coder_" target={"_blank"}>Codeforces</a>
             </li>
             <li className="about-activity">
-              <FaStar /> Global Rank 567 in Educational Codeforces Round 112
+              <FaStar /> Global Rank 156 in Codeforces Round 875 (Div. 2)
+            </li>
+            <li className="about-activity">
+              <FaStar /> Global Rank 527 in Codeforces Round 865 (Div. 2)
             </li>
             <li className="about-activity">
               <FaStar /> Achieved Highest Rating of 2029 (5 Star) on <a className="purple" style={{ "textDecoration": "none" }} href="https://www.codechef.com/users/shivambhadani" target={"_blank"}>CodeChef</a>
