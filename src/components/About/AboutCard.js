@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple"> Shivam Bhadani </span>
             from <span className="purple"> Jharkhand, India.</span>
-            <br />I am a 3rd year undergraduate at IIT Kanpur.
+            <br />I am a 4rd year undergraduate at IIT Kanpur.
             <br />
             <br />
             Some of my competitive programming achievements are:

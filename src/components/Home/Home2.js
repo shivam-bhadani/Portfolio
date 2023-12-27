@@ -19,10 +19,10 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a 3rd year undergraduate at IIT Kanpur
+              I am a 4rd year undergraduate at IIT Kanpur
               <br />
               <br />
-              I am doing <b className="purple">SDE Internship</b> at <b className="purple">Trilogy Innovations (CodeNation)</b>.
+              I have done my <b className="purple">SDE Internship</b> at <b className="purple">Trilogy Innovations (CodeNation)</b> last summer.
               <br />
               <br />
               I love <a className="purple" style={{ "textDecoration": "none" }} href="https://www.stopstalk.com/user/profile/shivambhadani_" target={"_blank"}>problem solving</a> and doing competitive programming.
