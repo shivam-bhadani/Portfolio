@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import cfstress from "../../Assets/Projects/cfstress.png";
 import codegeass from "../../Assets/Projects/codegeass.png"
 import bookstation from "../../Assets/Projects/bookstation.png";
+import smartskill_studio from '../../Assets/Projects/smartskill_studio.png'
 import blog from "../../Assets/Projects/blog.png";
 import chatbot from "../../Assets/Projects/chatbot.png";
 import tictac from "../../Assets/Projects/tictac.png";
@@ -37,6 +38,15 @@ function Projects() {
               title="Code Geass"
               description="Developed a high-performing coding website, enabling users to improve algorithmic problem-solving skills. Leveraged Bull Queue for efficient management and processing of background jobs for code compilation. Frontend is built in ReactJS and Material UI, Backend in Node.js, Express.js and DataBase is MongoDB."
               ghLink="https://github.com/shivam-bhadani/Code-Geass-Backend"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={smartskill_studio}
+              isBlog={false}
+              title="SmartSkill Studio"
+              description="Developed backend of an e-learning platform using Django REST Framework for course creation and enrollment. Implemented dynamic chat using channels and websockets, enhancing collaborative learning for enrolled students. Integrated and secured Stripe payments, ensuring a robust and secure transactional backend for course purchases."
+              ghLink="https://github.com/shivam-bhadani/SmartSkill-Studio"
             />
           </Col>
 
